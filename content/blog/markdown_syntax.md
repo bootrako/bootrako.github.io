@@ -1,11 +1,12 @@
 +++
 title = "Markdown Syntax Guide"
-date = "2020-01-03"
+date = "2023-10-18"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
     "syntax",
 ]
+draft = true
 +++
 
 For a quick cheatsheet, check out https://simplemde.com/markdown-guide.

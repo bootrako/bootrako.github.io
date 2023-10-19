@@ -1,13 +1,11 @@
-# Hello, there!
+# hello, there!
 
 Welcome to my home page ^_^
 
-## A little about me:
+## a little about me:
 
-I'm lucky enough to have a great partner and a goofy puppy.
+I enjoy writing code for video games.
 
-My job is to write code for video games.
+I write words for humans on my [blog](/blog). Mostly about gamedev.
 
-I also enjoy writing code for video games in my free time. ;)
-
-My [blog](/blog) records my [thoughts](/blog) about and [tips](/blog) for game development.
+Cozy and wholesome games are my jam.
