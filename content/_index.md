@@ -1,11 +1,11 @@
 # hello, there!
 
-Welcome to my home page ^_^
+Welcome to my home page! ^_^
 
 ## a little about me:
 
 I enjoy writing code for video games.
 
-I write words for humans on my [blog](/blog). Mostly about gamedev.
+I write words for humans on my [blog](/blog), mostly about gamedev.
 
 Cozy and wholesome games are my jam.
