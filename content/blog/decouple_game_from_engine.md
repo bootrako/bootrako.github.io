@@ -33,8 +33,8 @@ For example, you could use the game engine simply as a hardware abstraction laye
 
 Using this workflow, the game engine utilizes the game library as a plugin, with a thin layer on top acting as the glue between the engine and the library API. There are a couple of ways to interface between the engine and the game library:
 
-1. **Poll**: the engine layer manages the game library and is responsible for the game library's lifecycle. The engine layer will poll the game library for the current simulation state, and then reflect that state in the engine.
-2. **Host**: the engine layer provides callbacks to the game library that query or control aspects of the game engine. In a way, the game library is a freestanding OS, and the game engine provides the capabilities of the host.
+1. **Poll**: the engine layer will query the game library for the current simulation state, and then reflect that state in the engine. Polling should be a quick operation that does not modify internal game state.
+2. **Host**: the engine layer provides callbacks to the game library that control aspects of the game engine. In a way, the game library is a freestanding OS, and the game engine provides the capabilities of the host.
 
 These two methods of interfacing are not mutually exclusive; both should be used as necessary.
 
