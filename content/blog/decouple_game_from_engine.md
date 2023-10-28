@@ -15,7 +15,7 @@ One technical decision that is difficult to change is the choice of game engine.
 
 However, the benefits of modern game engines cannot be understated. They represent countless developer-hours of platform support and tooling to empower artists and designers. It's usually the right choice to use one for your game.
 
-## why would you ever want to change your game engine?
+## why would you want to change your game engine?
 
 You might be doubting the premise that being coupled to a game engine is that problematic. After all, the architecture of game engines usually facilitates rapid prototyping. You can create modular components that are easily thrown out or reused for new purposes. This seems to fit the requirements for "easy to change".
 
