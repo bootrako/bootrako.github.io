@@ -63,7 +63,7 @@ I have already discussed how the decoupling will make it easier to switch engine
 
 ## what does it look like in practice?
 
-I made a [Tetris clone](https://github.com/0xC021/tetris) that has the following structure:
+I made a [Tetris clone](https://github.com/bootrako/tetris) that has the following structure:
 
 * A **sim** library that runs a simulation roughly following the rules of [SNES Tetris](https://meatfighter.com/nintendotetrisai/).
 * Two **host** projects:
