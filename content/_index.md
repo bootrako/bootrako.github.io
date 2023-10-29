@@ -1,8 +1,6 @@
 # hello, there!
 
-Welcome to my home page! ^_^
-
-## a little about me:
+### a little about me:
 
 I enjoy writing code for video games.
 
