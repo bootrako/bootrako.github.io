@@ -16,7 +16,7 @@ The best way to learn a new tool is by making something, so I made a clone of th
 You can try it out by clicking the button below! Just a few disclaimers:
 
 * The download size for the game is 28.5 MB
-* Only desktop browsers are supported. I tested on Chrome and Firefox. The game won't respond to input on touch devices.
+* Only desktop browsers are supported. I tested on Chrome and Firefox.
 * These are the controls:
     | Action     | Right Handed | Left Handed |
     | ---------- | ------------ | ----------- |
