@@ -3,7 +3,7 @@ title = "decouple game from engine"
 date = "2023-10-25"
 description = "The pros and cons of keeping your game code decoupled from your game engine."
 tags = [
-    "gamedev", "opinion"
+    "gamedev"
 ]
 +++
 

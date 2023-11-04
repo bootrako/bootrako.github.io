@@ -1,6 +1,6 @@
 baseURL = "https://bootrako.github.io/"
 
-theme = 'hugo-bearblog'
+theme = "hugo-bearblog"
 
 title = "bootrako"
 author = "bootrako"
