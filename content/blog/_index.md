@@ -1,3 +1,3 @@
 +++
-title = "blog"
+title = "trav's game dev blog"
 +++
