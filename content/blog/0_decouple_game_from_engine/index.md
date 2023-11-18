@@ -3,11 +3,11 @@ title = "decouple game from engine"
 date = "2023-10-25"
 description = "The pros and cons of keeping your game code decoupled from your game engine."
 tags = [
-    "gamedev"
+    "programming"
 ]
 +++
 
-*[Good design is easier to change than bad design](https://pragprog.com/tips/)*.
+*[Good design is easier to change than bad design.](https://pragprog.com/tips/)*
 
 This time-honored programming adage is especially pertinent to the development of video games, where "finding the fun" constantly changes the requirements of the code.
 

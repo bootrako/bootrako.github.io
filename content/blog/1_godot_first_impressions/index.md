@@ -3,7 +3,7 @@ title = "godot first impressions"
 date = "2023-10-29"
 description = "A retrospective on learning the Godot game engine by building a SNES Tetris clone."
 tags = [
-    "gamedev", "godot"
+    "programming", "godot"
 ]
 +++
 
@@ -29,7 +29,7 @@ You can try it out by clicking the button below! Just a few disclaimers:
     | Mute       | M            | M           |
     | Pause      | P            | P           |
 
-{{< include_html "content/blog/godot_first_impressions/tetris_embed.html" >}}
+{{< include_html "content/blog/1_godot_first_impressions/tetris_embed.html" >}}
 
 ## is godot any good?
 
